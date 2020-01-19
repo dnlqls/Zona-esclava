@@ -1,6 +1,10 @@
-echo "# Zona-esclava" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/admin211116/Zona-esclava.git
-git push -u origin master
+Zona esclava o secundaria
+
+¿Que es un servidor de nombre secundario?
+
+Es un servidor el cual tiene autoridad sobre una zona pero la información de esa zona la obtiene de un servidor primario y esto lo hace mediante un proceso llamado tranferencia de zona.
+
+¿En que consiste la tranferencia de zona?
+
+Esta consiste en que para que el servidor secundario permanezca sincorinizado le consulta al primario de forma frecuente y si el servidor primario a sido actualizado el secundario realiza la tranferencia de zona y asi obtiene los datos del primero.
+
