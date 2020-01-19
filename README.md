@@ -2,7 +2,7 @@ Zona esclava o secundaria
 
 ¿Que es un servidor de nombre secundario?
 
-Es un servidor el cual tiene autoridad sobre una zona pero la información de esa zona la obtiene de un servidor primario y esto lo hace mediante un proceso llamado tranferencia de zona.
+Es un servidor el cual tiene autoridad sobre una zona pero la información de esa zona la obtiene de un servidor primario y esto lo hace mediante un proceso llamado tranferencia de zona.Por lo tanto si el servidor primario fallara el secundario podria resolver las peticiones.
 
 ¿En que consiste la tranferencia de zona?
 
