@@ -38,10 +38,10 @@ a nuestro servidor secundrio poniendo la ip.
 
 6.Por ultimo tambien ablitaremos la tranferencia en la zona imbersa como lo hemos echo antes desde opciones de zona.
 
-7.Seguidamente entramos en el webmin del servidor secundario y con el bind ya instalado vamos a añadir una zona esclava de tipo directa.
+7.Seguidamente entramos en el webmin del servidor secundario y con el bind ya instalado vamos a añadir una zona esclava de tipo directa dandole a crear zona subordinada.
 
 ![zonadirectaesclava.png](./imagenes/zonadirectaesclava.png)
 
 8.Ahora creamos otra pero de busqueda inversa de la siguente forma.
 
-9.Por último para comprobar que funciona correctamente
+9.Por último para comprobar que funciona correctamente hacemos un test trasnfer zone para comprobar que la tranferencia entre servidores funciona correctamente
