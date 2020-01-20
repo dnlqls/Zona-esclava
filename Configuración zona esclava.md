@@ -1,7 +1,9 @@
 Para hacer esta actividad necesitas dos maquinas de Ubuntu Server una en la que abeis creado la zona primaria y los registros 
 y otra nueva donde ira el servidor secundario.
 
-En la configuracion de red del primario añadimos en el DNS predefinido
+En la configuracion de red del servidor primario añadimos en el DNS predefinido la ip del servidor secundario.
+
+Luego, en la configuracion del servidor secundario o esclavo hacemos la misma configuracion vista anteriormente pero poniendole una ip distinta y en servior DNS ponemos la ip del primario y la del secundario.
 
 A demas, para configurar el servidor secundario o esclavo primero debemos hacer unos cambios en el servidor primario.
 
