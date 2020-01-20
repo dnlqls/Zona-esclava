@@ -32,7 +32,7 @@ a nuestro servidor secundrio poniendo la ip.
 
 4.Ahora vamos a la zona de busqueda inversa y hacemos lo mismo que en la directa pero para la zona inversa.
 
-
+![zonainversa1.png](./imagenes/zonainversa1.png)
 
 5.Despues, en "direccion inversa" ponemos la ip y el nombre del servidor secundario. (Si teneis puesto que se actualice, en las direcciones de la zona directa no sera nescasrio ponerlo ya que se pondra solo).
 
