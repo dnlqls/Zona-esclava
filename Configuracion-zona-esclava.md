@@ -34,6 +34,9 @@ a nuestro servidor secundrio poniendo la ip.
 
 ![zonainversa1.png](./imagenes/zonainversa1.png)
 
+![confinver.png](./imagenes/confinver.png)
+
+
 5.Despues, en "direccion inversa" ponemos la ip y el nombre del servidor secundario. (Si teneis puesto que se actualice, en las direcciones de la zona directa no sera nescasrio ponerlo ya que se pondra solo).
 
 6.Por ultimo tambien ablitaremos la tranferencia en la zona imbersa como lo hemos echo antes desde opciones de zona.
