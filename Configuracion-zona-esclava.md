@@ -7,7 +7,8 @@ En la configuracion de red del servidor primario añadimos en el DNS predefinido
 
 ![configuracion.png](./imagenes/configuracion.PNG)
 
-A demas, para configurar el servidor secundario o esclavo primero debemos hacer unos cambios en el servidor primario.
+A demas, para configurar el servidor secundario o esclavo primero debemos hacer unos cambios en el servidor primario. Recordar que al realizar cambios teneis que aplicar la configurarción y reiniciar el server parandolo y encendiendolo desde webmin.
+
 
 1.Entramos en la zona maestra o principal de busqueda directa en nuestro servidor principal y enramos a "servidor de nombres"
 una vez hay ponemos lo siguente.
@@ -46,4 +47,4 @@ a nuestro servidor secundrio poniendo la ip.
 
 8.Ahora creamos otra pero de busqueda inversa de la siguente forma.
 
-9.Por último para comprobar que funciona correctamente
+9.Por último para comprobar que funciona correctamente hacemos un test trasfer zone
