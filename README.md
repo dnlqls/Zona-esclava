@@ -9,5 +9,5 @@ Es un servidor el cual tiene autoridad sobre una zona pero la información de es
 Esta consiste en que para que el servidor secundario permanezca sincorinizado le consulta al primario de forma frecuente y si el servidor primario a sido actualizado el secundario realiza la tranferencia de zona y asi obtiene los datos del primero.
 
 A continuación realiza la siguente actividad siguendo los pasos que se te dan:
-[Actividad zona esclava](Actividad1.md)
+[Actividad zona esclava](Configuración zona esclava.md)
 
