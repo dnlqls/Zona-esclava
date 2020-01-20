@@ -44,8 +44,10 @@ a nuestro servidor secundrio poniendo la ip.
 
 8.Ahora creamos otra pero de busqueda inversa de la siguente forma.
 
-9.Por último para comprobar que funciona correctamente hacemos un test trasnfer zone para comprobar que la tranferencia entre servidores funciona correctamente
+9.Por último para comprobar que funciona correctamente hacemos un test trasnfer zone para comprobar que la tranferencia entre servidores funciona correctamente.
 
 ![testzone.png](./imagenes/testzonetransferç1.png)
 
 ![testtranser.png](./imagenes/testtranser.png)
+
+![volver al inicio](README.md)
