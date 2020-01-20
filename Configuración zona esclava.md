@@ -16,10 +16,14 @@ una vez hay ponemos lo siguente.
 
 ![22.png](./imagenes/22.png)
 
-2.Luego entramos en direcciónes y ponemos el nombre del servidor secundario y su ip,
+2.Luego entramos en "direcciónes" y ponemos el nombre del servidor secundario y su ip,
 despues le damos a crear.
 
-3.A continuacion entramos en editar opciones de zona y permitimos la tranferencia
+![4.png](./imagenes/4.png)
+
+![5.png](./imagenes/5.png)
+
+3.A continuacion entramos en "editar opciones de zona" y permitimos la tranferencia
 a nuestro servidor secundrio poniendo la ip.
 
 4.Ahora vamos a la zona de busqueda inversa y hacemos lo siguente.
