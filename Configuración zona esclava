@@ -1,7 +1,7 @@
 Para hacer esta actividad necesitas dos maquinas de Ubuntu Server una en la que abeis creado la zona primaria y los registros 
 y otra nueva donde ira el servidor secundario.
 
-En la configuracion de red del primario añadimos en 
+En la configuracion de red del primario añadimos en el DNS predefinido
 
 A demas, para configurar el servidor secundario o esclavo primero debemos hacer unos cambios en el servidor primario.
 
@@ -26,4 +26,6 @@ nescasrio ponerlo ya que se pondra solo).
 desde opciones de zona.
 
 7.Seguidamente entramos en el webmin del servidor secundario y con el bind ya instalado 
-vamos a añadir una zona esclava
+vamos a añadir una zona esclava de tipo directa.
+
+8.Ahora creamos otra pero de busqueda inversa de la siguente forma.
