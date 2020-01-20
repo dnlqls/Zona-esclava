@@ -36,6 +36,8 @@ a nuestro servidor secundrio poniendo la ip.
 
 ![confinver.png](./imagenes/confinver.png)
 
+![resulinver.png](./imagenes/resulinver.png)
+
 
 5.Despues, en "direccion inversa" ponemos la ip y el nombre del servidor secundario. (Si teneis puesto que se actualice, en las direcciones de la zona directa no sera nescasrio ponerlo ya que se pondra solo).
 
