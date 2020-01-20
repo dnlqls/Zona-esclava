@@ -25,12 +25,14 @@ despues le damos a crear.
 
 ![3.png](./imagenes/3.png)
 
-![61.png](./imagenes/61.png)
+
 
 
 
 3.A continuacion entramos en "editar opciones de zona" y permitimos la tranferencia
 a nuestro servidor secundrio poniendo la ip.
+
+![61.png](./imagenes/61.png)
 
 4.Ahora vamos a la zona de busqueda inversa y hacemos lo siguente.
 
