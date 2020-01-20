@@ -32,7 +32,7 @@ a nuestro servidor secundrio poniendo la ip.
 
 ![61.png](./imagenes/61.png)
 
-4.Ahora vamos a la zona de busqueda inversa y hacemos lo siguente.
+4.Ahora vamos a la zona de busqueda inversa y hacemos lo siguente(el nombre de zona no lo ponemos poeque se pone automatico).
 
 ![10.png](./imagenes/10.png)
 
