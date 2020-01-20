@@ -12,7 +12,7 @@ A demas, para configurar el servidor secundario o esclavo primero debemos hacer 
 1.Entramos en la zona maestra o principal de busqueda directa en nuestro servidor principal y enramos a "servidor de nombres"
 una vez hay ponemos lo siguente.
 
-![opciones.png](./imagenes/2.png)
+![opciones.png](./imagenes/31.png)
 
 ![1.png](./imagenes/1.png)
 
