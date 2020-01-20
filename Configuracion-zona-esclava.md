@@ -46,4 +46,6 @@ a nuestro servidor secundrio poniendo la ip.
 
 9.Por último para comprobar que funciona correctamente hacemos un test trasnfer zone para comprobar que la tranferencia entre servidores funciona correctamente
 
-![testzone.png](./imagenes/testzonetransferç.png)
+![testzone.png](./imagenes/testzonetransferç1.png)
+
+![testtranser.png](./imagenes/testtranser.png)
