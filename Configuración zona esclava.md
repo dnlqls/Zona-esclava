@@ -14,7 +14,7 @@ una vez hay ponemos lo siguente.
 
 ![1.png](./imagenes/1.png)
 
-![2.png](./imagenes/2.png)
+![22.png](./imagenes/22.png)
 
 2.Luego entramos en direcciónes y ponemos el nombre del servidor secundario y su ip,
 despues le damos a crear.
