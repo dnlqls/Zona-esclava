@@ -10,5 +10,5 @@ Esta consiste en que para que el servidor secundario permanezca sincorinizado le
 
 A continuación realiza la siguente actividad siguendo los pasos que se te dan:
 
-[Actividad zona esclava.](Configuración%20zona%20esclava.md)
+[Actividad zona esclava.](Configuracion-zona-esclava.md)
 
