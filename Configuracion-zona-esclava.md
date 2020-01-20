@@ -40,6 +40,7 @@ a nuestro servidor secundrio poniendo la ip.
 
 
 5.Despues, en "direccion inversa" ponemos la ip y el nombre del servidor secundario. (Si teneis puesto que se actualice, en las direcciones de la zona directa no sera nescasrio ponerlo ya que se pondra solo).
+![11.png](./imagenes/11.png)
 
 6.Por ultimo tambien ablitaremos la tranferencia en la zona imbersa como lo hemos echo antes desde opciones de zona.
 
