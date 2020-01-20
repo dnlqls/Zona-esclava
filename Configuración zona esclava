@@ -1,0 +1,15 @@
+Para hacer esta actividad necesitas dos maquinas de Ubuntu Server una en la que abeis creado la zona primaria y los registros 
+y otra nueva donde ira el servidor secundario
+
+A demas, para configurar el servidor secundario o esclavo primero debemos hacer unos cambios en el servidor primario.
+
+1.Entramos en la zona maestra o principal de busqueda directa en nuestro servidor principal y enramos a "servidor de nombres"
+una vez hay ponemos lo siguente
+
+2.
+
+3.
+
+4.
+
+5.
