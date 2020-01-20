@@ -23,7 +23,7 @@ despues le damos a crear.
 
 ![32.png](./imagenes/32.png)
 
-![4.png](./imagenes/4.png)
+![3.png](./imagenes/3.png)
 
 
 
