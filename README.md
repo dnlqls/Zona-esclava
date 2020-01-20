@@ -1,4 +1,4 @@
-##Zona esclava o secundaria
+# Zona esclava o secundaria
 
 **¿Que es un servidor de nombre secundario?**
 
