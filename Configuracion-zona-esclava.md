@@ -38,6 +38,8 @@ a nuestro servidor secundrio poniendo la ip.
 
 6.Por ultimo tambien ablitaremos la tranferencia en la zona imbersa como lo hemos echo antes desde opciones de zona.
 
+![61.png](./imagenes/61.png)
+
 7.Seguidamente entramos en el webmin del servidor secundario y con el bind ya instalado vamos a añadir una zona esclava de tipo directa dandole a crear zona subordinada.
 
 ![zonadirectaesclava.png](./imagenes/zonadirectaesclava.png)
