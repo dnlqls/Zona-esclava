@@ -46,4 +46,4 @@ a nuestro servidor secundrio poniendo la ip.
 
 8.Ahora creamos otra pero de busqueda inversa de la siguente forma.
 
-9.Por último para comprobar que funciona correctamente
+9.Por último para comprobar que funciona correctamente.
