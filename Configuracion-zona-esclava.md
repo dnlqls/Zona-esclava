@@ -60,4 +60,4 @@ a nuestro servidor secundrio poniendo la ip.
 
 ![testtranser.png](./imagenes/testtranser.png)
 
-![volver al inicio](README.md)
+[volver al inicio](README.md)
